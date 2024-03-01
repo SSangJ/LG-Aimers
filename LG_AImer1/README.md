@@ -1,3 +1,6 @@
+![image](https://github.com/SSangJ/LG-Aimers/assets/137964478/10e6fc9d-2b96-4293-b5d6-c3b62598a3ac)
+
+
 # 파일 설명
 
 ## 1.train.csv [파일]
