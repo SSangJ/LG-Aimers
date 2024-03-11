@@ -1,5 +1,6 @@
 # 주제
 ##### MQL데이터를 활용하여 영업 기회 전환 고객을 선별하기 위한 AI모델 개발
+![image](https://github.com/SSangJ/LG-Aimers/assets/137964478/51ea57ca-bbfc-4faa-96b8-0a9dfe0a419c)
 
 
 <br>
