@@ -9,3 +9,4 @@
 
 ##### LG-Aimers2 영업 기회 전환 고객을 선별하기 위한 AI모델 개발
 ##### https://github.com/SSangJ/LG-Aimers/tree/main/LG_Aimer2
+![image](https://github.com/SSangJ/LG-Aimers/assets/137964478/26a4cccf-32db-4b37-968f-9b3121d8456f)
